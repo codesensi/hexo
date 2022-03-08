@@ -1,0 +1,434 @@
+# 导航菜单
+menu:
+  首页: / || fas fa-home
+  分类: /categories/ || fas fa-folder-open
+  标签: /tags/ || fas fa-tags
+  归档: /archives/ || fas fa-archive
+  清单||fa fa-heartbeat:
+    音乐: /music/ || fas fa-music
+    相册: /gallery/ || fas fa-images
+    图书: /books/ || fas fa-book
+    电影: /movies/ || fas fa-video
+    游戏: /games/ || fas fa-gamepad
+  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
+  小情绪: /artitalk/ || fas fa-smile
+
+# 头像
+avatar:
+  img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/png/Avatar.png
+  effect: false # 头像会一直转圈
+
+# favicon
+favicon: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/png/Avatar.png
+
+# 404页面
+error_404:
+  enable: true
+  subtitle: "哎呀~龙猫开小差了呢~"
+  background: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+
+# 代码高亮
+highlight_theme: light
+
+# 代码复制
+highlight_copy: true
+
+# 代码框展开，有>点击按钮
+highlight_shrink: false
+
+# 代码高度限制
+highlight_height_limit: 300
+
+# 顶部图
+index_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/index.webp
+archive_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+
+# 文章封面
+cover:
+  # 是否显示文章封面
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
+  # 封面显示的位置,三个值可配置 left , right , both
+  position: both
+  # 当没有设置cover时，默认的封面显示
+  default_cover:
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover1.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover2.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover3.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover4.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover5.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover6.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover7.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover8.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover9.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover10.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover11.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover12.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover13.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover14.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover15.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover16.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover17.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover18.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover19.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover20.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover21.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover22.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover23.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover24.webp
+    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover25.webp
+
+# 文章meta显示
+post_meta:
+  page:
+    date_type: both # created or updated or both 主页文章日期是创建日或者更新日或都显示
+    date_format: date # date/relative 显示日期还是相对日期
+    categories: true # true or false 主页是否显示分类
+    tags: false # true or false 主页是否显示标籤
+    label: true # true or false 显示描述性文字
+  post:
+    date_type: both # created or updated or both 文章页日期是创建日或者更新日或都显示
+    date_format: date # date/relative 显示日期还是相对日期
+    categories: true # true or false 文章页是否显示分类
+    tags: true # true or false 文章页是否显示标籤
+    label: true # true or false 显示描述性文字
+
+# 文章版权
+post_copyright:
+  enable: true
+  decode: false
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+# 文章打赏
+reward:
+  enable: true
+  QR_code:
+    - img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/jpg/WeiXinPay.jpg
+      link:
+      text: 微信
+    - img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/jpg/AliPay.jpg
+      link:
+      text: 支付宝
+
+# 文章目录
+toc:
+  enable: true # 文章页是否显示目录
+  page: false # 普通页面是否显示目录
+  number: true # 是否显示章节数
+  expand: true # 是否展开目录
+  style_simple: true # 简洁模式（侧边栏只显示目录）
+
+# 相关推荐
+related_post:
+  enable: true
+  limit: 3 # 显示推荐文章数目
+  date_type: updated # or created or updated 文章日期显示创建日或者更新日
+
+# 文章过期提醒
+noticeOutdate:
+  enable: true
+  style: flat # style: simple/flat
+  limit_day: 60 # 距离更新时间多少天才显示文章过期提醒
+  position: top # position: top/bottom
+  message_prev: 这篇文章最后更新于 # 天数之前的文字
+  message_next: 天前，您需要注意相关的内容是否还可用，如有疑问请联系作者！ # 天数之后的文字
+
+# 复制相关配置
+copy:
+  enable: true # 是否开启网站复製权限
+  copyright: # 复製的内容后面加上版权信息
+    enable: false # 是否开启复製版权信息添加
+    limit_count: 50 # 字数限制，当复製文字大于这个字数限制时，将在复製的内容后面加上版权信息
+
+# Footer设置
+footer:
+  owner:
+    enable: true
+    since: 2021 # 展示你站点起始时间的选项，它位于页面的最底部。
+  custom_text: <a href="https://codesensi.cn/" target="_blank">龙猫·备20210101001号</a>
+
+# 简繁转换
+translate:
+  enable: true
+  # 默认按钮显示文字(网站是简体，应设置为'default: 繁')
+  default: 繁
+  # 网站默认语言，1: 繁体中文, 2: 简体中文
+  defaultEncoding: 2
+  # 延迟时间,若不在前, 要设定延迟翻译时间, 如100表示100ms,默认为0
+  translateDelay: 0
+  # 当文字是简体时，按钮显示的文字
+  msgToTraditionalChinese: "繁"
+  # 当文字是繁体时，按钮显示的文字
+  msgToSimplifiedChinese: "简"
+
+# 夜间模式
+darkmode:
+  enable: true
+  # dark mode和 light mode切换按钮
+  button: true
+  autoChangeMode: true
+
+# 阅读模式
+readmode: true
+
+# 字体大小
+change_font_size: true
+
+# 侧边栏排版
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: true # 手机页面（ 显示宽度 < 768px ）是否显示aside内容
+  position: right # left or right
+  card_author:
+    enable: true
+    description:
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Github
+      link: https://github.com/codesensi
+  card_announcement:
+    enable: true
+    content: 龙猫的静态博客又双叒叕重新部署啦~
+  card_recent_post:
+    enable: true
+    limit: 5 # if set 0 will show all
+    sort: date # date or updated
+  card_categories:
+    enable: true
+    limit: 5 # if set 0 will show all
+    expand: none # none/true/false
+  card_tags:
+    enable: true
+    limit: 40 # if set 0 will show all
+    color: true
+  card_archives:
+    enable: true
+    type: monthly # yearly or monthly
+    format: YYYY-MM # eg: YYYY年MM月
+    order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending
+    limit: 8 # if set 0 will show all
+  card_webinfo:
+    enable: true
+    post_count: true
+    last_push_date: true
+
+# 访问人数
+busuanzi:
+  site_uv: true
+  site_pv: true
+  page_pv: true
+
+# 网页运行时间
+runtimeshow:
+  enable: true
+  publish_date: 2021-01-01 00:00:00
+
+# 评论
+comments:
+  # Up to two comments system, the first will be shown as default
+  # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo
+  use:
+    - Twikoo
+  text: true # Display the comment name next to the button
+  # lazyload: The comment system will be load when comment element enters the browser's viewport.
+  # If you set it to true, the comment count will be invalid
+  lazyload: false
+  count: false # Display comment count in top_img
+  card_post_count: false # Display comment count in Home Page
+
+# Twikoo评论设置
+twikoo:
+  envId: https://twikoo-codesensi.vercel.app/
+  region:
+  visitor: false
+  option:
+
+# 本地搜索
+local_search:
+  enable: true
+
+# 自定义主题色
+theme_color:
+  enable: true
+  main: "#49B1F5"
+  paginator: "#00c4b6"
+  button_hover: "#FF7242"
+  text_selection: "#00c4b6"
+  link_color: "#99a9bf"
+  meta_color: "#858585"
+  hr_color: "#A4D8FA"
+  code_foreground: "#F47466"
+  code_background: "rgba(27, 31, 35, .05)"
+  toc_color: "#00c4b6"
+  blockquote_padding_color: "#49b1f5"
+  blockquote_background_color: "#49b1f5"
+  scrollbar_color: "#49b1f5"
+
+# 网站背景
+background: '#BEEDC7'
+
+# footer是否显示图片背景(与top_img一致)
+footer_bg: true
+
+# Typewriter Effect (打字效果)
+activate_power_mode:
+  enable: true
+  colorful: true # open particle animation (冒光特效)
+  shake: false #  open shake (抖动特效)
+  mobile: true
+
+# 背景特效
+canvas_nest:
+  enable: true
+  color: '0,0,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
+  opacity: 0.5 # the opacity of line (0~1), default: 0.5.
+  zIndex: -1 # z-index property of the background, default: -1.
+  count: 99 # the number of lines, default: 99.
+  mobile: true # false 手机端不显示 true 手机端显示
+
+# 点击出现爱心
+click_heart:
+  enable: true
+  mobile: true
+
+# 页面美化
+beautify:
+  enable: true
+  field: site # site/post
+  title-prefix-icon: '\f0c1'
+  title-prefix-icon-color: "#F47466"
+
+# 主页subtitle
+subtitle:
+  enable: true
+  # Typewriter Effect (打字效果)
+  effect: true
+  # loop (循环打字)
+  loop: true
+  # source 调用第三方服务
+  # source: false 关闭调用
+  # source: 1  调用一言网的一句话（简体） https://hitokoto.cn/
+  # source: 2  调用一句网（简体） http://yijuzhan.com/
+  # source: 3  调用今日诗词（简体） https://www.jinrishici.com/
+  # subtitle 会先显示 source , 再显示 sub 的内容
+  source: 2
+  # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
+  sub:
+    - 今日事&#44;今日毕
+    - Never put off till tomorrow what you can do today
+    - 谁说站在光里的才算英雄
+
+# 加载动画 Loading Animation
+preloader: true
+
+# 字数统计
+wordcount:
+  enable: true
+  post_wordcount: true
+  min2read: true
+  total_wordcount: true
+
+# 图片大图查看模式
+fancybox: true
+
+# Snackbar 弹窗
+# https://github.com/polonel/SnackBar
+# position 弹窗位置
+# 可选 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
+snackbar:
+  enable: true
+  position: top-center
+  bg_light: '#49b1f5' #light mode时弹窗背景
+  bg_dark: '#2d3035' #dark mode时弹窗背景
+
+# Open Graph
+# 在 head 里增加一些 meta 资料，例如缩略图、标题、时间等等。当你分享网页到一些平臺时，平臺会读取 Open Graph 的内容，展示缩略图，标题等等信息。
+Open_Graph_meta: true
+
+# https://instant.page/
+# prefetch (预加载)
+instantpage: true
+
+# Pjax [Beta]
+# It may contain bugs and unstable, give feedback when you find the bugs.
+# https://github.com/MoOx/pjax
+pjax:
+  enable: true
+  exclude:
+    - /music/
+    - /artitalk/
+
+# Inject the css and script (aplayer/meting)
+aplayerInject:
+  enable: true
+  per_page: true
+
+# Artitalk
+# see https://artitalk.js.org/
+artitalk:
+  enable: true
+  appId: W6NkYGvlL5TQNGSAhO2L7jGM-MdYXbMMI
+  appKey: UvDzQxL99FdprAhAUUs4TLWx
+  path:
+  js:
+  option:
+  front_matter:
+    aside: false # 关闭侧边栏
+    comments: true # 关闭评论
+    top_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+
+# hexo-filter-gitcalendar
+# see https://akilar.top/posts/1f9c68c9/
+gitcalendar:
+  enable: true # 开关
+  priority: 5 #过滤器优先权
+  enable_page: / # 应用页面
+  # butterfly挂载容器
+  layout: # 挂载容器类型
+    type: id
+    name: recent-posts
+    index: 0
+  # volantis挂载容器
+  # layout:
+  #   type: class
+  #   name: l_main
+  #   index: 0
+  # matery挂载容器
+  # layout:
+  #   type: id
+  #   name: indexCard
+  #   index: 0
+  # mengd挂载容器
+  # layout:
+  #   type: class
+  #   name: content
+  #   index: 0
+  user: codesensi  #git用户名
+  apiurl: 'https://gitcalendar-codesensi.vercel.app'
+  minheight:
+    pc: 280px #桌面端最小高度
+    mibile: 0px #移动端最小高度
+  color: "['#ebedf0', '#f0fff4', '#dcffe4', '#bef5cb', '#85e89d', '#34d058', '#28a745', '#22863a', '#176f2c', '#165c26', '#144620']" #翠绿色调
+  # color: "['#e4dfd7', '#f9f4dc', '#f7e8aa', '#f7e8aa', '#f8df72', '#fcd217', '#fcc515', '#f28e16', '#fb8b05', '#d85916', '#f43e06']" #橘黄色调
+  # color: "['#ebedf0', '#fdcdec', '#fc9bd9', '#fa6ac5', '#f838b2', '#f5089f', '#c4067e', '#92055e', '#540336', '#48022f', '#30021f']" #浅紫色调
+  # color: "['#ebedf0', '#f1f8ff', '#dbedff', '#c8e1ff', '#79b8ff', '#2188ff', '#0366d6', '#005cc5', '#044289', '#032f62', '#05264c']" #天青色调
+  container: .recent-post-item(style='width:100%;height:auto;padding:10px;') #父元素容器，需要使用pug语法
+  gitcalendar_css: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.css
+  gitcalendar_js: https://npm.elemecdn.com/hexo-filter-gitcalendar/lib/gitcalendar.js
+
+# 插入代码到头部 </head> 之前 和 底部 </body> 之前
+inject:
+  head:
+    - <link rel="stylesheet" href="/custom/twikoo_beautify.css" media="defer" onload="this.media='all'">
+    - <link rel="stylesheet" href="/custom/custom_fonts.css"  media="defer" onload="this.media='all'">
+    - <link rel="stylesheet" href="/custom/bg_gradient.css"  media="defer" onload="this.media='all'">
+  bottom:
+    - <script defer src="https://cdn.jsdelivr.net/gh/codesensi/live2d-widget/autoload.js"></script>
+    - <script async src="/custom/grayscale.js"></script>
+    - <script async src="/custom/diytitle.js"></script>

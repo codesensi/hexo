@@ -1,0 +1,147 @@
+- class_name: 友链
+  class_desc: 这些可全都是大佬，膜拜
+  link_list:
+    - name: Luis Blog
+      link: https://www.winterchen.com/
+      avatar: https://www.winterchen.com/img/logo3.jpg
+      descr: 专注Java开发，喜欢代码，关注新技术
+    - name: 凉茶
+      link: https://www.yuque.com/mrcode.cn
+      avatar:
+      descr: 边学边记边练习，JAVA 后端笔记、实战笔记
+    - name: Akilarの糖果屋
+      link: https://akilar.top/
+      avatar: https://akilar.top/img/siteicon/favicon.png
+      descr: 期待您的光临！
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: A Simple and Card UI Design theme for Hexo
+    - name: 吃草莓的小白兔
+      link: https://chrelyonly.gitee.io/
+      avatar: https://cdn.jsdelivr.net/gh/chrelyonly/cdn-speed@master/help/20210818143927.png
+      descr: 小朋友的网站～
+    - name: Juning的小本本
+      link: https://www.idreamyou.cn
+      avatar: https://www.idreamyou.cn/upload/2019/9/UNADJUSTEDNONRAW_thumb_bc-23d637194a3a497f8f36f6be369e492d.jpg
+      descr: 强迫自己学着写博客
+    - name: Kiritoghy
+      link: https://www.kiritoghy.cn
+      avatar: https://cdn.jsdelivr.net/gh/kiritoghy/files/image/avatar.jpg
+      descr: 士不可以不弘毅，任重而道远
+    - name: Yo!🤞Troy
+      link: https://www.yotroy.cool
+      avatar: https://yotroyblog.oss-cn-beijing.aliyuncs.com/logo.png
+      descr: 那些看似不起波澜的日复一日 在某天会让你看到坚持的意义
+    - name: Ying
+      link: https://blog.luvying.com
+      avatar: https://cdn.jsdelivr.net/gh/luvying/ying-blog-cdn/files/static/images/avatar.jpg
+      descr: ⎛⎝喵~⎠⎞
+    - name: 孙云增的博客
+      link: https://sunyunzeng.com
+      avatar: https://sunyunzeng.com/img/avatar.jpg
+      descr: 极简生活，极致内涵
+    - name: Sanarous
+      link: https://bestzuo.cn
+      avatar: https://cdn.jsdelivr.net/gh/Sanarous/files/images/avatar.jpeg
+      descr: Dream it possible, make it possible
+    - name: Osilly
+      link: https://www.osilly.space
+      avatar: https://www.osilly.space/picture/myavatar.jpg
+      descr: A student, and an acmer.
+    - name: 蚊子有点疼
+      link: https://www.wzydt.cn
+      avatar: https://wzydt.cn/usr/uploads/2021/07/1732016731.jpg
+      descr: 生活再平凡也是限量版
+    - name: Anakin's Blog
+      link: https://iblog.wangxingyi.top
+      avatar: https://wangxingyi.top/img/typecho/head1.jpg
+      descr: 记录生活,技术学习,分享交流
+    - name: 寒山志
+      link: https://baozi.fun
+      avatar: https://baozi.fun/upload/2020/06/A79EA7D3-58D6-4E3A-BCA9-B5902F261FDF_4_5005_c-7b8f047cfdc34386b9bc647b9c8b009d.jpeg
+      descr: 绿衣捧砚催题卷，红袖添香伴读书
+    - name: Takagi
+      link: https://lixingyong.com
+      avatar: https://cdn.lixingyong.com/2020/07/21/5120c44321be63669141133441fd6ecf.jpg
+      descr: Takagi是啥呀？？当然是最喜欢的Takagi了吖ヾ(≧∇≦*)ゝ
+    - name: MrBird
+      link: https://mrbird.cc
+      avatar: https://mrbird.cc/images/blogImage.jpg
+      descr: A simple blog, code repository, just keep blogging
+
+- class_name: 网站
+  class_desc: 值得推荐的一些网站
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且強大的博客框架
+    - name: 6V电影
+      link: https://www.6vgood.com/
+      avatar: https://www.6vgood.com/pic/logo.png
+      descr: 电影电视剧免费下载
+    - name: 小片网
+      link: https://www.xiaopian.com/
+      avatar:
+      descr: 小片网
+    - name: neet
+      link: https://neets.cc/
+      avatar: https://neets.cc/assets/img/logo.png
+      descr: neet
+    - name: 低端影视
+      link: https://ddrk.me/
+      avatar:
+      descr: 低端影视
+    - name: 旋风动漫
+      link: https://share.xfapi.top:88/
+      avatar: https://static.ktxp.org/images/logo/logo_3.png
+      descr: 旋风动漫
+    - name: IT天空
+      link: https://www.itsk.com/
+      avatar: https://www.itsk.com/static/image/common/logo.png
+      descr: Windows装机教程，系统优化等。
+    - name: 天涯论坛
+      link: https://bbs.tianya.cn/
+      avatar:
+      descr: 曾经的王者，现在逐渐没落了。
+    - name: 远景论坛
+      link: https://bbs.pcbeta.com/
+      avatar: https://bbs.pcbeta.com/data/attachment/common/17/common_564_icon.jpg
+      descr: 类似于IT天空，大量黑苹果教程及资源。
+    - name: 吾爱破解
+      link: https://www.52pojie.cn/
+      avatar: https://static.52pojie.cn/static/image/common/logo.png
+      descr: 各种破解软件发源地，大神很多。
+    - name: 雨滴美化社区
+      link: https://bbs.rainmeter.cn/
+      avatar: https://bbs.rainmeter.cn/static/image/common/rainmeterlogo.jpg
+      descr: Windows桌面美化软件“雨滴”的专属论坛。
+    - name: 致美化
+      link: https://zhutix.com/
+      avatar: https://dl.zhutix.net/2020/05/logo.svg
+      descr: Windows主题美化论坛。
+    - name: 黑苹果社区
+      link: https://osx.cx/
+      avatar: https://osx.cx/wp-content/uploads/2018/02/osx.png
+      descr: 见名知意，黑苹果教程的圣地。
+    - name: 老男人游戏网
+      link: https://www.oldmanemu.net/
+      avatar: https://www.oldmanemu.net/wp-content/uploads/2018/06/600x450_AQIKSOFE43UD0031.jpg
+      descr: 很良心的非PC模拟游戏下载站点。
+    - name: Return 8090
+      link: https://www.return8090.com/
+      avatar:
+      descr: 小霸王，红白机，GBA，FC在线游戏。
+    - name: 在线DOS游戏
+      link: https://dos.zczc.cz/
+      avatar: 
+      descr: 在浏览器中在线游玩 DOS 游戏与 DOS 游戏下载！。
+    - name: 小霸王，其乐无穷
+      link: https://www.yikm.net/
+      avatar: https://www.yikm.net/logo.png
+      descr: 愿我们找回童年的快乐。
+    - name: famicn
+      link: https://www.famicn.com/
+      avatar: https://www.famicn.com/logo/gameking3.jpg
+      descr: 家用机掌机游戏博物馆！。
