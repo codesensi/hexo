@@ -71,6 +71,7 @@ category_map:
   Docker容器: docker
   Java编程: java
   SQL语言: sql
+  Git学习: git
   教程工具: tutorial
 tag_map:
 

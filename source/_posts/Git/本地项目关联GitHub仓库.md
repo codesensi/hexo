@@ -2,7 +2,7 @@
 title: 本地项目关联GitHub仓库
 description: 本地项目关联GitHub仓库
 categories:
-  - 教程工具
+  - Git学习
 tags:
   - git
   - github

@@ -2,7 +2,7 @@
 title: git学习笔记②-实际应用
 description: git学习笔记②-实际应用
 categories:
-  - 教程工具
+  - Git学习
 tags:
   - git
 abbrlink: git-learn-apply

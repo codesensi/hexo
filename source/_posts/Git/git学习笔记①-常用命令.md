@@ -2,7 +2,7 @@
 title: git学习笔记①-常用命令
 description: git学习笔记①-常用命令
 categories:
-  - 教程工具
+  - Git学习
 tags:
   - git
 abbrlink: git-learn-commands
