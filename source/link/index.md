@@ -3,7 +3,7 @@ title: 友链
 date: 2021-10-17 13:56:55
 type: "link"
 aside: false
-top_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+top_img: https://image.codesensi.cn/hexo/webp/banner.webp
 ---
 
 ## 友链申请模板

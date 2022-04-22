@@ -21,7 +21,7 @@ updated: 2021-11-03 20:44:25
 
 图不重要~
 
-![2021-11-03-19-59-48](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-11-03-19-59-48.png)
+![2021-11-03-19-59-48](https://image.codesensi.cn/hexo/post/2021-11-03-19-59-48.png)
 
 # V1版本安装
 

@@ -25,7 +25,7 @@ updated: 2022-03-08 20:44:25
 
 在GitHub创建一个`与本地项目文件夹同名`的项目
 
-![20220308215924](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/20220308215924.png)
+![20220308215924](https://image.codesensi.cn/hexo/post/2022-03-08-21-59-24.png)
 
 `Add a README file`、`Add .gitignore`、`Choose a license`按照项目实际需求自行选择
 

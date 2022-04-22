@@ -22,7 +22,7 @@ updated: 2021-10-19 21:18:56
 
 `注：index.html处于根目录`
 
-![image.png](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/202110192126964.png)
+![image.png](https://image.codesensi.cn/hexo/post/2021-10-19-21-26-96.png)
 
 ## 重启nginx
 
@@ -114,7 +114,7 @@ server {
 
 此处上传路径为：`/home/docker/nginx/cert`
 
-![image.png](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/202110192133381.png)
+![image.png](https://image.codesensi.cn/hexo/post/2021-10-19-21-33-38.png)
 
 ## 重启nginx
 

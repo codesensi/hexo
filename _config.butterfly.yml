@@ -16,17 +16,17 @@ menu:
 
 # 头像
 avatar:
-  img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/png/Avatar.png
+  img: https://image.codesensi.cn/mysite/my_avatar.png
   effect: false # 头像会一直转圈
 
 # favicon
-favicon: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/png/Avatar.png
+favicon: https://image.codesensi.cn/mysite/my_avatar.png
 
 # 404页面
 error_404:
   enable: true
   subtitle: "哎呀~龙猫开小差了呢~"
-  background: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+  background: https://image.codesensi.cn/hexo/webp/banner.webp
 
 # 代码高亮
 highlight_theme: light
@@ -41,8 +41,8 @@ highlight_shrink: false
 highlight_height_limit: 300
 
 # 顶部图
-index_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/index.webp
-archive_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+index_img: https://image.codesensi.cn/hexo/webp/index.webp
+archive_img: https://image.codesensi.cn/hexo/webp/banner.webp
 
 # 文章封面
 cover:
@@ -54,31 +54,31 @@ cover:
   position: both
   # 当没有设置cover时，默认的封面显示
   default_cover:
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover1.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover2.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover3.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover4.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover5.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover6.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover7.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover8.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover9.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover10.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover11.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover12.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover13.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover14.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover15.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover16.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover17.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover18.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover19.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover20.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover21.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover22.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover23.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover24.webp
-    - https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/cover25.webp
+    - https://image.codesensi.cn/hexo/webp/cover1.webp
+    - https://image.codesensi.cn/hexo/webp/cover2.webp
+    - https://image.codesensi.cn/hexo/webp/cover3.webp
+    - https://image.codesensi.cn/hexo/webp/cover4.webp
+    - https://image.codesensi.cn/hexo/webp/cover5.webp
+    - https://image.codesensi.cn/hexo/webp/cover6.webp
+    - https://image.codesensi.cn/hexo/webp/cover7.webp
+    - https://image.codesensi.cn/hexo/webp/cover8.webp
+    - https://image.codesensi.cn/hexo/webp/cover9.webp
+    - https://image.codesensi.cn/hexo/webp/cover10.webp
+    - https://image.codesensi.cn/hexo/webp/cover11.webp
+    - https://image.codesensi.cn/hexo/webp/cover12.webp
+    - https://image.codesensi.cn/hexo/webp/cover13.webp
+    - https://image.codesensi.cn/hexo/webp/cover14.webp
+    - https://image.codesensi.cn/hexo/webp/cover15.webp
+    - https://image.codesensi.cn/hexo/webp/cover16.webp
+    - https://image.codesensi.cn/hexo/webp/cover17.webp
+    - https://image.codesensi.cn/hexo/webp/cover18.webp
+    - https://image.codesensi.cn/hexo/webp/cover19.webp
+    - https://image.codesensi.cn/hexo/webp/cover20.webp
+    - https://image.codesensi.cn/hexo/webp/cover21.webp
+    - https://image.codesensi.cn/hexo/webp/cover22.webp
+    - https://image.codesensi.cn/hexo/webp/cover23.webp
+    - https://image.codesensi.cn/hexo/webp/cover24.webp
+    - https://image.codesensi.cn/hexo/webp/cover25.webp
 
 # 文章meta显示
 post_meta:
@@ -106,10 +106,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/jpg/WeiXinPay.jpg
+    - img: https://image.codesensi.cn/mysite/wechat_pay.jpg
       link:
       text: 微信
-    - img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/jpg/AliPay.jpg
+    - img: https://image.codesensi.cn/mysite/ali_pay.jpg
       link:
       text: 支付宝
 
@@ -148,7 +148,6 @@ footer:
   owner:
     enable: true
     since: 2021 # 展示你站点起始时间的选项，它位于页面的最底部。
-  custom_text: <a href="https://codesensi.cn/" target="_blank">龙猫·备20210101001号</a>
 
 # 简繁转换
 translate:
@@ -381,7 +380,7 @@ artitalk:
   front_matter:
     aside: false # 关闭侧边栏
     comments: true # 关闭评论
-    top_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+    top_img: https://image.codesensi.cn/hexo/webp/banner.webp
 
 # hexo-filter-gitcalendar
 # see https://akilar.top/posts/1f9c68c9/

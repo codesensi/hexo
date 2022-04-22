@@ -94,4 +94,4 @@ sudo docker ps
 
 宿主机在浏览器地址栏使用服务器ip访问
 
-![image.png](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/202110192100140.png)
+![image.png](https://image.codesensi.cn/hexo/post/2021-10-19-21-00-14.png)

@@ -27,7 +27,7 @@ updated: 2021-10-25 20:44:25
 
 - 在设置中搜索`setting.json`并打开配置文件
 
-![2021-10-25-20-29-34](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-25-20-29-34.png)
+![2021-10-25-20-29-34](https://image.codesensi.cn/hexo/post/2021-10-25-20-29-34.png)
 
 - 将配置内容复制粘贴到文件内
 
@@ -43,8 +43,8 @@ updated: 2021-10-25 20:44:25
     "terminal.integrated.defaultProfile.windows": "GitBash",//使用gitbash作为默认终端
 }
 ```
-![2021-10-25-20-34-54](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-25-20-34-54.png)
+![2021-10-25-20-34-54](https://image.codesensi.cn/hexo/post/2021-10-25-20-34-54.png)
 
 - 配置完成之后重启`vscode`，打开新终端即为`gitbash`
 
-![2021-10-25-20-43-45](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-25-20-43-45.png)
+![2021-10-25-20-43-45](https://image.codesensi.cn/hexo/post/2021-10-25-20-43-45.png)

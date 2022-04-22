@@ -5,7 +5,7 @@ type: "about"
 updated: 2021-10-18 20:37:23
 comments: false
 aside: false
-top_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+top_img: https://image.codesensi.cn/hexo/webp/banner.webp
 ---
 
 ## 关于龙猫
@@ -15,7 +15,7 @@ top_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.we
 > 自我肯定：干啥啥不行，划水第一名。
 > 自我总结：怎一个菜字了得。
 
-<img style="display: block; margin: 0 auto;" src="https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/jpg/cai.jpg" alt="我太菜了" />
+<img style="display: block; margin: 0 auto;" src="https://image.codesensi.cn/hexo/jpg/my_cai.jpg" alt="我太菜了" />
 
 ## 关于本站
 

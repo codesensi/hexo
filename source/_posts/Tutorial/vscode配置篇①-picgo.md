@@ -25,7 +25,7 @@ updated: 2021-10-24 20:44:25
 
 在`vscode`的扩展中搜索`picgo`和`Chinese`安装两款插件
 
-![2021-10-24-17-10-33](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-24-17-10-33.png)
+![2021-10-24-17-10-33](https://image.codesensi.cn/hexo/post/2021-10-24-17-10-33.png)
 
 ### 更改默认配置
 
@@ -33,15 +33,15 @@ updated: 2021-10-24 20:44:25
 
 - 点击左下角`管理`-`设置`
 
-![2021-10-24-17-18-06](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-24-17-18-06.png)
+![2021-10-24-17-18-06](https://image.codesensi.cn/hexo/post/2021-10-24-17-18-06.png)
 
 - 依次在`用户`-`扩展`下找到`PicGo`
 
-![2021-10-24-17-21-14](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-24-17-21-14.png)
+![2021-10-24-17-21-14](https://image.codesensi.cn/hexo/post/2021-10-24-17-21-14.png)
 
 - 按照如下图所示进行相关配置
 
-![2021-10-24-17-27-53](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-24-17-27-53.png)
+![2021-10-24-17-27-53](https://image.codesensi.cn/hexo/post/2021-10-24-17-27-53.png)
 
 `配置说明`
 
@@ -57,11 +57,11 @@ updated: 2021-10-24 20:44:25
 
 配置上传成功后返回的图片名称格式
 
-![2021-10-24-17-42-39](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-24-17-42-39.png)
+![2021-10-24-17-42-39](https://image.codesensi.cn/hexo/post/2021-10-24-17-42-39.png)
 
 ### 快捷键
 
-![2021-10-24-18-06-00](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-24-18-06-00.png)
+![2021-10-24-18-06-00](https://image.codesensi.cn/hexo/post/2021-10-24-18-06-00.png)
 
 > Windows系统
 > Ctrl + Alt + U：从剪贴板上传
@@ -71,4 +71,4 @@ updated: 2021-10-24 20:44:25
 
 配置完成，从`vscode`的`setting.json`文件中可以看到配置的内容
 
-![2021-10-24-18-03-55](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-24-18-03-55.png)
+![2021-10-24-18-03-55](https://image.codesensi.cn/hexo/post/2021-10-24-18-03-55.png)

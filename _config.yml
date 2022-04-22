@@ -132,7 +132,7 @@ douban:
     quote: '好好学习~'
     meta: true
     comments: true
-    top_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+    top_img: https://image.codesensi.cn/hexo/webp/banner.webp
     aside: false
     path: books
     limit:
@@ -141,7 +141,7 @@ douban:
     quote: '一起看吧~'
     meta: true
     comments: true
-    top_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+    top_img: https://image.codesensi.cn/hexo/webp/banner.webp
     aside: false
     path: movies
     limit:
@@ -150,7 +150,7 @@ douban:
     quote: '人在塔在~'
     meta: true
     comments: true
-    top_img: https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/webp/banner.webp
+    top_img: https://image.codesensi.cn/hexo/webp/banner.webp
     aside: false
     path: games
     limit:

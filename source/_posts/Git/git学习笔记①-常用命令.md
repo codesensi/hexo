@@ -31,15 +31,15 @@ updated: 2021-10-29 20:44:25
 
 首先在`GitHub`创建新仓库`learn-git`
 
-![2021-10-30-12-44-18](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-30-12-44-18.png)
+![2021-10-30-12-44-18](https://image.codesensi.cn/hexo/post/2021-10-30-12-44-18.png)
 
 然后使用`gitbash`克隆仓库到本地磁盘
 
-![2021-10-30-12-46-12](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-30-12-46-12.png)
+![2021-10-30-12-46-12](https://image.codesensi.cn/hexo/post/2021-10-30-12-46-12.png)
 
 最后进入`learn-git`目录
 
-![2021-10-30-13-40-16](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-30-13-40-16.png)
+![2021-10-30-13-40-16](https://image.codesensi.cn/hexo/post/2021-10-30-13-40-16.png)
 
 ### git config
 
@@ -60,7 +60,7 @@ git config –-list
 
 **重要提示：编辑框不够一次性完整显示全部配置时，按`回车`可查看剩余配置项，最后按 `Q` 重返命令行**
 
-![2021-10-30-12-54-17](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-30-12-54-17.png)
+![2021-10-30-12-54-17](https://image.codesensi.cn/hexo/post/2021-10-30-12-54-17.png)
 
 如果看到了重复的变量名，这是因为会从不同的配置文件获取，只有最后找到的配置会生效。
 
@@ -70,7 +70,7 @@ git config –-list
 git config user.name
 ```
 
-![2021-10-30-12-56-34](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-30-12-56-34.png)
+![2021-10-30-12-56-34](https://image.codesensi.cn/hexo/post/2021-10-30-12-56-34.png)
 
 ### git status
 
@@ -82,7 +82,7 @@ git config user.name
 git status -s
 ```
 
-![2021-10-30-13-21-02](https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/blog/2021-10-30-13-21-02.png)
+![2021-10-30-13-21-02](https://image.codesensi.cn/hexo/post/2021-10-30-13-21-02.png)
 
 - **??**：新添加的未跟踪文件
 - **A**：新添加到暂存区中的文件
