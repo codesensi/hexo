@@ -10,5 +10,5 @@ top_img: https://image.codesensi.cn/hexo/webp/banner.webp
 
 > name：龙猫汪汪汪
 > link：https://codesensi.cn
-> avatar：https://cdn.jsdelivr.net/gh/codesensi/picture@main/stage/png/Avatar.png
+> avatar：https://image.codesensi.cn/mysite/my_avatar.png
 > descr：谁说站在光里的才算英雄
