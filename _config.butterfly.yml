@@ -428,6 +428,17 @@ inject:
     - <link rel="stylesheet" href="/custom/custom_fonts.css"  media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="/custom/bg_gradient.css"  media="defer" onload="this.media='all'">
   bottom:
-    - <script defer src="https://cdn.jsdelivr.net/gh/codesensi/live2d-widget/autoload.js"></script>
+    # - <script defer src="https://cdn.jsdelivr.net/gh/codesensi/live2d-widget/autoload.js"></script>
     - <script async src="/custom/grayscale.js"></script>
     - <script async src="/custom/diytitle.js"></script>
+
+CDN:
+  # The CDN provider of internal scripts (主题内部 js 的 cdn 配置)
+  # option: local/jsdelivr
+  # Dev version cannot choose jsdelivr (dev版的主题不能设置为 jsdelivr)
+  internal_provider: local
+  # The CDN provider of third party scripts (第三方 js 的 cdn 配置)
+  # option: local/jsdelivr
+  # when set it to local, you need to install hexo-butterfly-extjs
+  third_party_provider: local
+  option:
