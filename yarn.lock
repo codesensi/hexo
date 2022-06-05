@@ -3941,9 +3941,9 @@
     "meting" "^1.2.0"
 
 "hexo-theme-butterfly@^4.1.0":
-  "integrity" "sha512-jMCyPklL8lLRzK1/nNV3c3+9S+rOFxbDNHh/rIrV7Dg+fSBVA/+kWOICbHBIzNfo8c76W2fQwxKwHHzDWektcw=="
-  "resolved" "https://registry.npmjs.org/hexo-theme-butterfly/-/hexo-theme-butterfly-4.2.1.tgz"
-  "version" "4.2.1"
+  "integrity" "sha512-YOlaiEOcYxLjscM+6EdIIxHH5m8YEQFsFtWoKrSLDJNpe1+RzOUcb7o8NUBqhbFNYyuGveyatajOcApChYzVhw=="
+  "resolved" "https://registry.npmjs.org/hexo-theme-butterfly/-/hexo-theme-butterfly-4.2.2.tgz"
+  "version" "4.2.2"
   dependencies:
     "hexo-renderer-pug" "^3.0.0"
     "hexo-renderer-stylus" "^2.0.1"
